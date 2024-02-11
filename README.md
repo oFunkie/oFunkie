@@ -1,9 +1,10 @@
 <h1 align="center">Bonjour, je suis Aurélien Barbarant</h1>
 <h3 align="center">Un passionné de cybersécurité et de recherche de failles, j'ai aussi un grand interêt pour le développement d'outils d'exploitation de vulnérabilités.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✨ Objectif top 1000 avant 2025 </h3>
+<h3 align="left">Mon profil root-me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aurélien-barbarant-9a3393240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurélien-barbarant-9a3393240" height="30" width="40" /></a>
+<a href="https://www.root-me.org/oFunkie?lang=fr" target="blank"><img align="center" src="https://pro.root-me.org/squelettes/images/RMP_logo2_blanc.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
