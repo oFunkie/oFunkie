@@ -4,7 +4,7 @@
 <h3 align="left">░✨ Objectif top 1000 avant 2025<br>░ Mon profil root-me:</h3>
 
 <p align="left">
-<a href="https://www.root-me.org/oFunkie?lang=fr" target="blank"><img align="center" src="https://pro.root-me.org/squelettes/images/RMP_logo2_blanc.png" height="60" width="60" /></a>
+<a href="https://www.root-me.org/oFunkie?lang=fr" target="blank">░<img align="center" src="https://pro.root-me.org/squelettes/images/RMP_logo2_blanc.png" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
